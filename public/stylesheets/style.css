@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+    width: 100%;
+    height: 45px;
+    overflow: hidden;
+}
+.head>p{
+    display: inline-block;
+    float: right;
+    margin-left: 20px;
+    margin-top: 27px;
+  
+}
+.head>p>a{
+	  color: #624a54;
+    font-weight: 900;
+}
+.conner{
+    width: 640px;
+    position: absolute;
+    top: 112px;
+    left:350px;
+}
+.img1{
+    position: absolute;
+   left: 213px;
+   top:50px;
+}
+.inp{
+    width: 538px;
+    height: 36px;
+    border: 1px solid #CCCCCC;
+    outline: none;
+    margin-top: 162px;
+    background:url("../images/捕获_07.png")no-repeat;
+    background-position: 510px 12px;
+}
+.bai{
+    width: 100px;
+    height: 38px;
+    background: #3385ff;
+    outline: none;
+    border:none;
+    color: white;
+}
+.floor{
+    width:640px;
+    margin:0 auto;
+    margin-top:450px;
+}
+.fl_bai{
+    margin-left: 300px;
+}
+.fl_bai>p{
+
+   font-size: 12px;
+   text-indent: 5px
+}
+.fl_text{
+	 text-align: center;
+}
+.tui{
+   margin-top: 20px;
+}
+.tui>a{
+   font-size: 14px;
+   color: #ccc;
+   margin-left: 20px;
+  
+}
+.fan{
+  font-size: 14px;
+   color: #ccc;
+   margin-top: 10px;
+}
+.fan>img{
+  vertical-align:middle;
+}
+.fan>a{
+  font-size: 14px;
+   color: #ccc;
+   margin-top: 10px;
+}
+.img2{
+  margin-right: 20px;
+}
+
+
